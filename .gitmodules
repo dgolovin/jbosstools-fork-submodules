@@ -10,3 +10,75 @@
 [submodule "jbosstools-jst"]
 	path = jbosstools-jst
 	url = git://github.com/dgolovin/jbosstools-jst.git
+[submodule "jbosstools-server"]
+	path = jbosstools-server
+	url = git://github.com/dgolovin/jbosstools-server.git
+[submodule "jbosstools-javaee"]
+	path = jbosstools-javaee
+	url = git://github.com/dgolovin/jbosstools-javaee.git
+[submodule "jbosstools-central"]
+	path = jbosstools-central
+	url = git://github.com/dgolovin/jbosstools-central.git
+[submodule "jbosstools-download.jboss.org"]
+	path = jbosstools-download.jboss.org
+	url = git://github.com/dgolovin/jbosstools-download.jboss.org.git
+[submodule "jbosstools-install-grinder"]
+	path = jbosstools-install-grinder
+	url = git://github.com/dgolovin/jbosstools-install-grinder.git
+[submodule "jbosstools-integration-tests"]
+	path = jbosstools-integration-tests
+	url = git://github.com/dgolovin/jbosstools-integration-tests.git
+[submodule "jbosstools-esb"]
+	path = jbosstools-esb
+	url = git://github.com/dgolovin/jbosstools-esb.git
+[submodule "jbosstools-forge"]
+	path = jbosstools-forge
+	url = git://github.com/dgolovin/jbosstools-forge.git
+[submodule "jbosstools-documentation"]
+	path = jbosstools-documentation
+	url = git://github.com/dgolovin/jbosstools-documentation.git
+[submodule "jbosstools-openshift"]
+	path = jbosstools-openshift
+	url = git://github.com/dgolovin/jbosstools-openshift.git
+[submodule "jbosstools-hibernate"]
+	path = jbosstools-hibernate
+	url = git://github.com/dgolovin/jbosstools-hibernate.git
+[submodule "jbosstools-vpe"]
+	path = jbosstools-vpe
+	url = git://github.com/dgolovin/jbosstools-vpe.git
+[submodule "jbosstools-webservices"]
+	path = jbosstools-webservices
+	url = git://github.com/dgolovin/jbosstools-webservices.git
+[submodule "jbosstools-xulrunner"]
+	path = jbosstools-xulrunner
+	url = git://github.com/dgolovin/jbosstools-xulrunner.git
+[submodule "jbosstools-runtime-soa"]
+	path = jbosstools-runtime-soa
+	url = git://github.com/dgolovin/jbosstools-runtime-soa.git
+[submodule "jbosstools-portlet"]
+	path = jbosstools-portlet
+	url = git://github.com/dgolovin/jbosstools-portlet.git
+[submodule "jbosstools-gwt"]
+	path = jbosstools-gwt
+	url = git://github.com/dgolovin/jbosstools-gwt.git
+[submodule "jbosstools-freemarker"]
+	path = jbosstools-freemarker
+	url = git://github.com/dgolovin/jbosstools-freemarker.git
+[submodule "jbosstools-birt"]
+	path = jbosstools-birt
+	url = git://github.com/dgolovin/jbosstools-birt.git
+[submodule "jbosstools-bpel"]
+	path = jbosstools-bpel
+	url = git://github.com/dgolovin/jbosstools-bpel.git
+[submodule "jbosstools-build-sites"]
+	path = jbosstools-build-sites
+	url = git://github.com/dgolovin/jbosstools-build-sites.git
+[submodule "jbosstools-jbpm"]
+	path = jbosstools-jbpm
+	url = git://github.com/dgolovin/jbosstools-jbpm.git
+[submodule "jbosstools-build-ci"]
+	path = jbosstools-build-ci
+	url = git://github.com/dgolovin/jbosstools-build-ci.git
+[submodule "jbosstools-website"]
+	path = jbosstools-website
+	url = git://github.com/dgolovin/jbosstools-website.git

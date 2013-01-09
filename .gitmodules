@@ -10,3 +10,6 @@
 [submodule "jbosstools-jst"]
 	path = jbosstools-jst
 	url = git://github.com/dgolovin/jbosstools-jst.git
+[submodule "jbosstools-server"]
+	path = jbosstools-server
+	url = git://github.com/dgolovin/jbosstools-server.git

@@ -1,0 +1,12 @@
+[submodule "jbosstools-maven-plugins"]
+	path = jbosstools-maven-plugins
+	url = git://github.com/dgolovin/jbosstools-maven-plugins.git
+[submodule "jbosstools-build"]
+	path = jbosstools-build
+	url = git://github.com/dgolovin/jbosstools-build.git
+[submodule "jbosstools-base"]
+	path = jbosstools-base
+	url = git://github.com/dgolovin/jbosstools-base.git
+[submodule "jbosstools-jst"]
+	path = jbosstools-jst
+	url = git://github.com/dgolovin/jbosstools-jst.git

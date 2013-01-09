@@ -10,5 +10,6 @@
 		<module>jbosstools-maven-plugins/tycho-plugins</module>
 		<module>jbosstools-base</module>
 		<module>jbosstools-jst</module>
+		<module>jbosstools-server</module>
 	</modules>
 </project>

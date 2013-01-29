@@ -82,3 +82,6 @@
 [submodule "jbosstools-website"]
 	path = jbosstools-website
 	url = git://github.com/dgolovin/jbosstools-website.git
+[submodule "jbosstools-dev"]
+	path = jbosstools-dev
+	url = git://github.com/dgolovin/jbosstools-dev.git

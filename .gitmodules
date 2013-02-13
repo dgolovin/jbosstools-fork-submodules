@@ -85,3 +85,6 @@
 [submodule "jbosstools-dev"]
 	path = jbosstools-dev
 	url = git://github.com/dgolovin/jbosstools-dev.git
+[submodule "jbosstools-target-platforms"]
+	path = jbosstools-target-platforms
+	url = git@github.com:dgolovin/jbosstools-target-platforms.git

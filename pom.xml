@@ -10,10 +10,8 @@
 		<module>jbosstools-maven-plugins/tycho-plugins</module>
                 <module>jbosstools-base</module>
                 <module>jbosstools-birt</module>
-                <!--module>jbosstools-bpel</module -->
                 <module>jbosstools-build/parent</module>
                 <module>jbosstools-central</module>
-                <module>jbosstools-esb</module>
                 <module>jbosstools-forge</module>
                 <module>jbosstools-freemarker</module>
                 <module>jbosstools-gwt</module>
@@ -23,7 +21,6 @@
                 <module>jbosstools-jst</module>
                 <module>jbosstools-openshift</module>
                 <module>jbosstools-portlet</module>
-                <module>jbosstools-runtime-soa</module>
                 <module>jbosstools-server</module>
                 <module>jbosstools-vpe</module>
                 <module>jbosstools-webservices</module>
